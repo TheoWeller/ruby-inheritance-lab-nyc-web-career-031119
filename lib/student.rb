@@ -12,7 +12,7 @@ end
 binding.pry
 
 def knowledge
-self.knowledge
+knowledge
 end
 
 end
