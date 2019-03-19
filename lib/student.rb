@@ -9,7 +9,7 @@ end
 def learn(string)
 self.knowledge << string
 end
-binding.pry
+#binding.pry
 
 def knowledge
 knowledge
